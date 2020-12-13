@@ -6,6 +6,8 @@ Wealth Scale
     2 - medium
     3 - high
 
+Organized by Trade Loop 1 / System Type / Wealth Scale
+
 Advanced Material Systems ( dna )
 
     Korabliu - 2

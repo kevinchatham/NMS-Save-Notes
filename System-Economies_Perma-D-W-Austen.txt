@@ -1,0 +1,43 @@
+Wealth Scale
+    1 - low
+    2 - medium
+    3 - high
+
+Advanced Material Systems ( dna )
+
+    Korabliu - 2
+    Nanimi - 2
+    Usumanotyr - 2
+
+Manufacturing Systems ( gear )
+
+    Hanskyv - 2
+    Rachinsky - 2
+
+Power Generation ( lighting bolt, looks like tech )
+
+    Mostok - 2
+    Nodalabi - 2
+    Uginoslob - 2
+    Ansiysk - 1
+    Opkinna - 1
+
+Scientific Systems ( beaker )
+
+    Diderba - 3 ( home base )
+    Yuboril - 2
+
+Technology Systems ( microchip that looks like book )
+
+    Yupins - 2
+    Luzaye - 2
+
+Trading Systems ( pocket watch )
+
+    Alinog - 2
+
+Misc Useful Trading Info
+
+    https://nomanssky.gamepedia.com/Economy
+
+    https://docs.google.com/spreadsheets/d/1F8WkxuYXzL6MDGJ5SGJu__UKHu-eOZ4eiDz8q-mi0iE/edit#gid=1223102762

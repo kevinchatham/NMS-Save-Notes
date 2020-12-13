@@ -6,40 +6,52 @@ Wealth Scale
     2 - medium
     3 - high
 
-Organized by Trade Loop 1 / System Type / Wealth Scale
+Trade Loop 1 / System Type / Wealth Scale
 
-Advanced Material Systems ( dna )
+    High Tech ( microchip that looks like book )
 
-    Korabliu - 2
-    Nanimi - 2
-    Usumanotyr - 2
+        Yupins - 2
+        Luzaye - 2
 
-Manufacturing Systems ( gear )
+    Power Generation ( lighting bolt, looks like tech )
 
-    Hanskyv - 2
-    Rachinsky - 2
+        Mostok - 2
+        Nodalabi - 2
+        Uginoslob - 2
+        Ansiysk - 1
+        Opkinna - 1
 
-Power Generation ( lighting bolt, looks like tech )
+    Mining
 
-    Mostok - 2
-    Nodalabi - 2
-    Uginoslob - 2
-    Ansiysk - 1
-    Opkinna - 1
+        _space_holder_
 
-Scientific Systems ( beaker )
+    Manufacturing Systems ( gear )
 
-    Diderba - 3 ( home base )
-    Yuboril - 2
+        Hanskyv - 2
+        Rachinsky - 2
 
-Technology Systems ( microchip that looks like book )
+    High Tech Systems
 
-    Yupins - 2
-    Luzaye - 2
+Trade Loop 2 / System Type / Wealth Scale
 
-Trading Systems ( pocket watch )
+    Trading Systems ( pocket watch )
 
-    Alinog - 2
+        Alinog - 2
+
+    Advanced Material Systems ( dna )
+
+        Korabliu - 2
+        Nanimi - 2
+        Usumanotyr - 2
+
+    Scientific Systems ( beaker )
+
+        Diderba - 3 ( home base )
+        Yuboril - 2
+
+    Trading Systems
+
+    Advanced Materials Systems
 
 Misc Useful Trading Info
 

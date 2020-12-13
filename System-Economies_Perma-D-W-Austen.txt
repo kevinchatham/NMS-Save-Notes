@@ -10,8 +10,8 @@ Trade Loop 1 / System Type / Wealth Scale
 
     High Tech ( microchip that looks like book )
 
-        Yupins - 2
         Luzaye - 2
+        Yupins - 2
 
     Power Generation ( lighting bolt, looks like tech )
 

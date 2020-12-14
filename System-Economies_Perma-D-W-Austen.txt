@@ -23,14 +23,14 @@ Trade Loop 1 / System Type / Wealth Scale / Alpha
 
     Mining
 
-        _space_holder_
+        Onegorn - 2
 
     Manufacturing Systems ( gear )
 
         Hanskyv - 2
         Rachinsky - 2
 
-    High Tech Systems
+    Repeat
 
 Trade Loop 2 / System Type / Wealth Scale / Alpha
 
@@ -43,15 +43,14 @@ Trade Loop 2 / System Type / Wealth Scale / Alpha
         Korabliu - 2
         Nanimi - 2
         Usumanotyr - 2
+        Noturo - 2
 
     Scientific Systems ( beaker )
 
         Diderba - 3 ( home base )
         Yuboril - 2
 
-    Trading Systems
-
-    Advanced Materials Systems
+    Repeat
 
 Misc Useful Trading Info
 

@@ -10,11 +10,13 @@ Trade Loop 1 / System Type / Wealth Scale / Alpha
 
     High Tech ( microchip that looks like book )
 
+        Empeshif - 3
         Luzaye - 2
         Yupins - 2
 
     Power Generation ( lighting bolt, looks like tech )
 
+        Aiadum - 2
         Mostok - 2
         Nodalabi - 2
         Uginoslob - 2
@@ -23,10 +25,12 @@ Trade Loop 1 / System Type / Wealth Scale / Alpha
 
     Mining
 
+        Mesgata - 2
         Onegorn - 2
 
     Manufacturing Systems ( gear )
 
+        Buquerque - 3
         Hanskyv - 2
         Rachinsky - 2
 

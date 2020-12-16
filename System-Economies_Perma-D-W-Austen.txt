@@ -12,6 +12,7 @@ Trade Loop 1 / System Type / Wealth Scale / Alpha
 
         Empeshif - 3
         Luzaye - 2
+        Rudonymi - 2 (dope ass planet with "The Nest" biome)
         Yupins - 2
 
     Power Generation ( lighting bolt, looks like tech )
@@ -25,12 +26,15 @@ Trade Loop 1 / System Type / Wealth Scale / Alpha
 
     Mining
 
+        Sentiruit - 3
         Mesgata - 2
         Onegorn - 2
-
+        Privost - 2
+        
     Manufacturing Systems ( gear )
 
         Buquerque - 3
+        Oevush - 3
         Hanskyv - 2
         Rachinsky - 2
 
@@ -41,6 +45,7 @@ Trade Loop 2 / System Type / Wealth Scale / Alpha
     Trading Systems ( pocket watch )
 
         Alinog - 2
+        Vozmozhsak - 2 (cool spaceships?)
 
     Advanced Material Systems ( dna )
 
